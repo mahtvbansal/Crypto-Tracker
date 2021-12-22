@@ -1,3 +1,23 @@
+
+[![Screenshot-448.png](https://i.postimg.cc/m2Ph2L0R/Screenshot-448.png)](https://postimg.cc/N5wQdcsP)
+
+
+# Cryptocurrency Tracker
+
+This app uses an API which has the data about various Cryptocurrencies out there in the market.
+
+It elegantly presents the data after fetching from the API.
+
+It shows various details such as name, price, volume, rise/fall ratio, market cap etc.
+
+Also, offering a search feature with nice looking search bar which does a real time search.
+
+
+
+# Project Link
+
+[Track Your Crypto Currency](https://trackyourcryptocurrency.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
